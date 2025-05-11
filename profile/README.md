@@ -44,8 +44,8 @@ All code licensed under the [Apache Version 2.0 License][ApacheLicenseVersion2].
 
 All documentation licensed under the [Creative Commons Attribution-NonCommercial 4.0 International][AttributionNonCommercialInternational4] [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en).
 
-[conduct]:https://raw.githubusercontent.com/nixgeekdev/.github/refs/heads/main/CODE_OF_CONDUCT.md
-[contributing]:https://raw.githubusercontent.com/nixgeekdev/.github/refs/heads/main/CONTRIBUTING.md
-[security]:https://raw.githubusercontent.com/nixgeekdev/.github/refs/heads/main/SECURITY.md
-[ApacheLicenseVersion2]:https://raw.githubusercontent.com/nixgeekdev/.github/refs/heads/main/ApacheLicenseVersion2
-[AttributionNonCommercialInternational4]:https://raw.githubusercontent.com/nixgeekdev/.github/refs/heads/main/AttributionNonCommercialInternational4
+[conduct]:https://github.com/nixgeekdev/.github/blob/main/CODE_OF_CONDUCT.md
+[contributing]:https://github.com/nixgeekdev/.github/blob/main/CONTRIBUTING.md
+[security]:https://github.com/nixgeekdev/.github/blob/main/SECURITY.md
+[ApacheLicenseVersion2]:https://github.com/nixgeekdev/.github/blob/main/ApacheLicenseVersion2
+[AttributionNonCommercialInternational4]:https://github.com/nixgeekdev/.github/blob/main/AttributionNonCommercialInternational4
