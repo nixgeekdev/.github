@@ -1,11 +1,15 @@
 # Contributing to NixGeek.Dev Projects
 
-
+This is a quick reference for how to set up the development environment and
+contribute with a PR. It assumes you're familiar with contributing to projects,
+and with Git, GitHub, and a JVM language such as Kotlin or Java. 
 
 ## Code of Conduct
 
 The NixGeek.Dev organization has a [Code of Conduct](CODE_OF_CONDUCT.md) to which all contributors must adhere.
 Read it and abide it!
+
+## Quick Reference
 
 ## Developer's Certificate of Origin 
 
