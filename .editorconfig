@@ -1,0 +1,8 @@
+# https://editorconfig.org
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+max_line_length = 100
+trim_trailing_whitespace = false
