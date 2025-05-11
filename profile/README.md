@@ -7,9 +7,10 @@
 </p>
 
 <p align="center">
-  NixGeek.Dev is an open source community organization that develops and supports JVM-targeted libraries and projects. 
-  The goal of NixGeek.Dev is to grow the community around these projects to create a sustainable group of maintainers, 
-  contributors, and users.
+  NixGeek.Dev is an open source community organization that develops and supports <br/>
+  JVM-targeted libraries and projects. The goal of NixGeek.Dev is to grow the community <br/>
+  around these projects to create a sustainable group of maintainers, contributors, <br/>
+  and users.
 </p>
 
 ----
@@ -40,13 +41,17 @@ If you are not able to make a financial contribution to our projects, please con
 
 ----
 
-All code licensed under the [Apache Version 2.0 License][ApacheLicenseVersion2].
+<p align="center">
+  All code licensed under the <a href="https://github.com/nixgeekdev/.github/blob/main/ApacheLicenseVersion2">Apache Version 2.0 License</a>.
+</p>
 
-All documentation licensed under the [Creative Commons Attribution-NonCommercial 4.0 International][AttributionNonCommercialInternational4] [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en).
+<p align="center">
+  All documentation licensed under the<br/> 
+  <a href="https://github.com/nixgeekdev/.github/blob/main/AttributionNonCommercialInternational4">Creative Commons Attribution-NonCommercial 4.0 International</a> <br/> 
+  (<a href="https://creativecommons.org/licenses/by-nc/4.0/legalcode.en">CC BY-NC 4.0</a>).
+</p>
 
 [conduct]:https://github.com/nixgeekdev/.github/blob/main/CODE_OF_CONDUCT.md
 [contributing]:https://github.com/nixgeekdev/.github/blob/main/CONTRIBUTING.md
 [security]:https://github.com/nixgeekdev/.github/blob/main/SECURITY.md
 [sponsor]:https://github.com/sponsors/nixgeekdev?frequency=recurring
-[ApacheLicenseVersion2]:https://github.com/nixgeekdev/.github/blob/main/ApacheLicenseVersion2
-[AttributionNonCommercialInternational4]:https://github.com/nixgeekdev/.github/blob/main/AttributionNonCommercialInternational4
