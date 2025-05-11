@@ -1,3 +1,19 @@
+<h1 align="center">NixGeek.Dev</h1><br>
+
+<p align="center">
+  <a href="https://nodejs.org/">
+    <img src="https://github.com/nixgeekdev/.github/blob/main/images/glider-hacker-symbol.png?raw=true" alt="NixGeek.Dev Hacker" height="140">
+  </a>
+</p>
+
+<p align="center">
+  NixGeek.Dev is an open source community organization that develops and supports JVM-targeted libraries and projects. 
+  The goal of NixGeek.Dev is to grow the community around these projects to create a sustainable group of maintainers, 
+  contributors, and users.
+</p>
+
+----
+
 ## Hi there 👋
 
 **Here are some ideas to get you started:**
