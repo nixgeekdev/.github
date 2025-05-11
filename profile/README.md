@@ -33,6 +33,12 @@ Please be mindful that security-related issues should be reported through our Se
 as security-related issues and vulnerabilities can be exploited and we request confidentiality 
 whenever possible. Please give a read to our [Security Policy][security] statement.
 
+### :heart: Sponsor our Work.
+
+If one or more of our projects have been useful to you, please consider making a sponsoring us.
+If you are not able to make a financial contriobution to our projects, please consider adding 
+a star.
+
 ----
 
 All code licensed under the [Apache Version 2.0 License][ApacheLicenseVersion2].
