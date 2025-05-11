@@ -23,7 +23,7 @@ The current feature release will receive security fixes. A backport to the
 previous feature branch may be considered upon request based on usage
 information and severity, but is not guaranteed.
 
-The NixGeek.Dev organization is not currently in a financial position were its
+The NixGeek.Dev organization is not currently in a financial position were it's
 able to offer bug or security bounties.
 
 ## Before Reporting
