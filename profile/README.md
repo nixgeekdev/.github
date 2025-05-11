@@ -35,9 +35,8 @@ whenever possible. Please give a read to our [Security Policy][security] stateme
 
 ### :heart: Sponsor our Work.
 
-If one or more of our projects have been useful to you, please consider making a sponsoring us.
-If you are not able to make a financial contriobution to our projects, please consider adding 
-a star.
+If one or more of our projects have been useful to you, please consider sponsoring us. If you are 
+not able to make a financial contribution to our projects, please consider adding a star.
 
 ----
 
