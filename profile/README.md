@@ -35,8 +35,8 @@ whenever possible. Please give a read to our [Security Policy][security] stateme
 
 ### :heart: Sponsor our Work.
 
-If one or more of our projects have been useful to you, please consider sponsoring us. If you are 
-not able to make a financial contribution to our projects, please consider adding a star.
+If one or more of our projects have been useful to you, please consider [sponsoring][sponsor] us. 
+If you are not able to make a financial contribution to our projects, please consider adding a star.
 
 ----
 
@@ -47,5 +47,6 @@ All documentation licensed under the [Creative Commons Attribution-NonCommercial
 [conduct]:https://github.com/nixgeekdev/.github/blob/main/CODE_OF_CONDUCT.md
 [contributing]:https://github.com/nixgeekdev/.github/blob/main/CONTRIBUTING.md
 [security]:https://github.com/nixgeekdev/.github/blob/main/SECURITY.md
+[sponsor]:https://github.com/sponsors/nixgeekdev?frequency=recurring
 [ApacheLicenseVersion2]:https://github.com/nixgeekdev/.github/blob/main/ApacheLicenseVersion2
 [AttributionNonCommercialInternational4]:https://github.com/nixgeekdev/.github/blob/main/AttributionNonCommercialInternational4
