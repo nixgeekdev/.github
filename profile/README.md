@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://nodejs.org/">
-    <img src="https://github.com/nixgeekdev/.github/blob/main/images/glider-hacker-symbol.png?raw=true" alt="NixGeek.Dev Hacker" height="140">
+    <img src="https://github.com/nixgeekdev/.github/blob/main/images/glider-hacker-symbol.png?raw=true" alt="NixGeek.Dev Hacker" height="200">
   </a>
 </p>
 
@@ -19,15 +19,28 @@
 The NixGeek.Dev organization develops open-source software, and we're always looking for new contributions. 
 From documentation, translation, contributing to our infrastructure or reporting a bug; any contribution is 
 valued and welcome. Are you interested in contributing to NixGeek.Dev projects? Give a read to our 
-$$$$ and the numerous ways you can  $$$  with NixGeek.Dev!
+[Contributions][contributing] statement and find out about the numerous ways you can help with our projects!
 
 ### 🦺 Help us making this Community safe.
 
-The NixGeek.Dev GitHub org(anization) follows the [Code of Conduct](CODE_OF_CONDUCT.md). Please 
+The NixGeek.Dev GitHub org(anization) follows the [Code of Conduct][conduct]. Please 
 abide by these simple rules when interacting with all repositories under the NixGeek.Dev umbrella 
 and when interacting with the NixGeek.Dev community.
 
 ### 👾 Reporting Security Incidents.
 
 Please be mindful that security-related issues should be reported through our Security Policy
-as security-related issues and vulnerabilities can be exploited and we request confidentiality whenever possible.
+as security-related issues and vulnerabilities can be exploited and we request confidentiality 
+whenever possible. Please give a read to our [Security Policy][security] statement.
+
+----
+
+All code licensed under the [Apache Version 2.0 License][ApacheLicenseVersion2].
+
+All documentation licensed under the [Creative Commons Attribution-NonCommercial 4.0 International][AttributionNonCommercialInternational4] [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en).
+
+[conduct]:https://raw.githubusercontent.com/nixgeekdev/.github/refs/heads/main/CODE_OF_CONDUCT.md
+[contributing]:https://raw.githubusercontent.com/nixgeekdev/.github/refs/heads/main/CONTRIBUTING.md
+[security]:https://raw.githubusercontent.com/nixgeekdev/.github/refs/heads/main/SECURITY.md
+[ApacheLicenseVersion2]:https://raw.githubusercontent.com/nixgeekdev/.github/refs/heads/main/ApacheLicenseVersion2
+[AttributionNonCommercialInternational4]:https://raw.githubusercontent.com/nixgeekdev/.github/refs/heads/main/AttributionNonCommercialInternational4
