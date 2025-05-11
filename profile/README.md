@@ -14,13 +14,20 @@
 
 ----
 
-## Hi there 👋
+### 👋 Contributing to NixGeek.Dev
 
-**Here are some ideas to get you started:**
+The NixGeek.Dev organization develops open-source software, and we're always looking for new contributions. 
+From documentation, translation, contributing to our infrastructure or reporting a bug; any contribution is 
+valued and welcome. Are you interested in contributing to NixGeek.Dev projects? Give a read to our 
+$$$$ and the numerous ways you can  $$$  with NixGeek.Dev!
 
-- 🙋‍♀️ A short introduction - what is your organization all about?
-- 🌈 Contribution guidelines - how can the community get involved?
-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-- 🍿 Fun facts - what does your team eat for breakfast?
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+### 🦺 Help us making this Community safe.
 
+The NixGeek.Dev GitHub org(anization) follows the [Code of Conduct](CODE_OF_CONDUCT.md). Please 
+abide by these simple rules when interacting with all repositories under the NixGeek.Dev umbrella 
+and when interacting with the NixGeek.Dev community.
+
+### 👾 Reporting Security Incidents.
+
+Please be mindful that security-related issues should be reported through our Security Policy
+as security-related issues and vulnerabilities can be exploited and we request confidentiality whenever possible.
