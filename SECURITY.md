@@ -6,9 +6,7 @@ GitHub's [security advisory
 system](https://docs.github.com/en/code-security/security-advisories/working-with-repository-security-advisories/creating-a-repository-security-advisory).
 From the project's repository, click _"Security"_ at the top, then click
 _"Advisories"_ at the left, then click the green _"New draft security advisory"_
-button. Alternatively, you may email
-[security@nixgeek.dev](mailto:security@nixgeek.dev), and we will convert that to
-a GitHub security advisory.
+button. 
 
 Be sure to include as much detail as necessary in your report. As with reporting
 normal issues, a minimal reproducible example will help the maintainers address
