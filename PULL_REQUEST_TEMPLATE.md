@@ -65,6 +65,7 @@ See https://www.conventionalcommits.org/en/v1.0.0/ for examples
 
 ### Creator's Affidavit of Origin
 
+```text
 By making a contribution to this project, I certify that:
 
  (a) The contribution was created in whole or in part by me and I
@@ -88,3 +89,4 @@ By making a contribution to this project, I certify that:
      personal information I submit with it, including my sign-off) is
      maintained indefinitely and may be redistributed consistent with
      this project or the open source license(s) involved.
+```
